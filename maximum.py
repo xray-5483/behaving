@@ -1,1 +1,1 @@
-print 'The answer is 42'
+3a44f320-33c5-11e6-97ae-185e0f5ac2f1
